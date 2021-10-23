@@ -1,0 +1,17 @@
+*~
+*.mod
+*.o
+*.a
+bin
+lib
+share
+scifor_version.inc
+numutils/test
+src/.repo/
+intel
+intel_debug
+_install/drafts
+intel_debug_old
+intel_old
+gnu
+gnu_debug
